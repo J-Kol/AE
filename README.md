@@ -1,2 +1,3 @@
 # AE
-scripts for a spotwave
+
+some AE measurements using a Spotwave from Vallen Systeme GmbH
