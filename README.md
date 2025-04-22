@@ -10,10 +10,3 @@ Typical use cases:
     Leak detection
     Material fatigue testing
     Non-destructive testing (NDT)
-
-Features:
-    Real-time AE signal acquisition
-    Signal conditioning and pre-processing (filtering, amplification)
-    Time-domain and frequency-domain analysis
-    Hit detection and event characterization (e.g., amplitude, energy, rise time)
-    Data export and visualization
