@@ -1,0 +1,12 @@
+[acq]
+threshold = 10000 #microvolts
+ddt = 100 #microseconds
+filter = { highpass = 10000, lowpass = 500000, order = 4 }
+status_interval = 0.0001 #seconds
+
+continuous_mode = false
+tr_enabled = false
+set_tr_decimation = 0 #factor
+set_tr_enabled = false
+set_tr_postduration = 0 #samples
+set_tr_pretrigger = 0 #samples
