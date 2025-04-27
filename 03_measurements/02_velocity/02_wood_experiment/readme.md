@@ -1,1 +1,1 @@
-The data of some diffrent woods(the senors are 10 cm apart)
+The data of some diffrent woods(the sensors are 10 cm apart)
